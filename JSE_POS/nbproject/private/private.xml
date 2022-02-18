@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/ui/WarehouseManage.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/dto/WareHouseDTO.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/dao/order/OrderManageDAOImpl.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/dao/warehouse/WarehousManageDAOImpl.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/ui/CreateOrderManage.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/common/ui/Login.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/common/ui/MainFrame.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/dao/category/CategoryManageDAOImpl.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/ui/MymainTest.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/dao/item/ItemManageDAOImpl.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/ui/ItemManage.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/ui/ClienManage.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/common/ui/SplashScreen.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/ui/CategoryManage.java</file>
+            <file>file:/C:/Users/moata/OneDrive/Desktop/netbeans%20projects/JSE_POS/src/com/pos/store/ui/UserManage.java</file>
+        </group>
+    </open-files>
+</project-private>

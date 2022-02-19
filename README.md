@@ -14,6 +14,6 @@ I'm used MySql DBMS to creat my schema of database for Project. and create (cate
 
 I'm used Swing GUI widget toolkit to represent my view of project.
 
-<h1>tip</h1>, the user and password are ("moataz" , "ahmed") for logIn to POS project 
+<h4>tip</h4>, the user and password are ("moataz" , "ahmed") for logIn to POS project 
 Then,, url, username and password for connection to database are locally, if you want t run this project you must chnages this(url, username and password) in jdbc.properties file from this path "JSE_POS\src\com\pos\dao\util\jdbc.properties" to your own paths.
 and you must named the schema of database to "pos" .... because I'm used this name in my query strings with JDBC.

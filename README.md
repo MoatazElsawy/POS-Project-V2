@@ -17,10 +17,11 @@ I'm used Swing GUI widget toolkit to represent my view of project.
 <h4>tip</h4>The user name and password are ("moataz" , "ahmed") for logIn to POS project
 
 <h6>How to Run?</h6>
-1st, You must ceate a schema with naming of "pos", download "POS_Schema" directory, and import all tables in "POS_Schema" directory to your own schema.
+<b>1st, You must ceate a schema with naming of "pos", download "POS_Schema" directory, and import all tables in "POS_Schema" directory to your own schema.
 
 2nd, Download "JSE_POS" directory, import this project into your IDE, and you must chnages this(url, username and password) in jdbc.properties file from this path "JSE_POS\src\com\pos\dao\util\jdbc.properties" to your own (url, username and password).
 
 3rd, Now... You are  ready to Run & Run and Build this Project.
 
 Finally ,Thanks.
+</b>

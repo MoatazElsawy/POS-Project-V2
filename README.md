@@ -3,6 +3,12 @@ Desktop APP that Involves all of Module, View and Controller(MVC Design Pattern)
 
 Updates: I'm changed some features in UI interface Specifically on the user messages and some techniques
 
+This project design an disktop appliction named <b>Techno Store</b>.
+This allows the user to add, delete, list and modify all types of categories of his products, and each category has its own data in the databases, and he can also 
+add, delete, list and modify special items for each category.
+It can make orders for clients, see all orders and clients registered within the institution,
+And the user does not have access to all of this except by logging in to the application
+
 This project is fully object oriented programming(OOP) ,that represent a small point of sale project. 
 Where I'm created (Item, Category, WareHouse, Client , Order, User, Invoice) for data transfer object to create, retraive, update and delete(CRUD) from and to database by UI interface.
 
